@@ -27,3 +27,7 @@ body {
   .background{
     background-color :aqua;
   }
+  .main-para {
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
