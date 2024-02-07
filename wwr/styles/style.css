@@ -47,7 +47,8 @@ nav a:hover{
     background-color:cornsilk
 }
 #background{
-    background-color:rgb(173, 216, 182)
+    height:725px;
+    background-color:burlywood;
 }
 .msg{
     background-color: rgb(198, 106, 53);
