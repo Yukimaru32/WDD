@@ -2,7 +2,6 @@
 
 .home-title{
     color:black;
-    font-family:'DM Serif Display','Open Sans',sans-serif;
     font-size: 2em;
     margin-top: 10px;
 }
@@ -59,9 +58,8 @@ nav a:hover{
    
 }
 .book, .join{
-    font-family: 'DM San Serif','Open Sans',sans-serif;
     font-size: 18px;
-    color:darkgreen;
+    color:bisque;
     background-color:cadetblue;
     text-decoration: none;
     padding:15px 30px;
@@ -98,7 +96,6 @@ h4 {
     color:bisque
 }
 .msg p{
-    font-family: 'DM San Serif','Open Serif',sans-serif;
     font-size: .8em; 
     padding-bottom:15px;
     color:bisque
