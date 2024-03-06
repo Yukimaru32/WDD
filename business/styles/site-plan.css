@@ -85,6 +85,7 @@ p {
 }
 .secondary {
   background-color: var(--secondary-color);
+  color: #ECFFF8;
 }
 .accent1 {
   background-color: var(--accent1-color);
