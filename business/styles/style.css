@@ -6,7 +6,33 @@
     margin-top: 10px;
     
 }
-
+/* Style the search box */
+#mySearch {
+    width: 30%;
+    font-size: 18px;
+    padding: 11px;
+    border: 1px solid #04080F;
+}
+  
+  /* Style the navigation menu */
+ #myMenu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+  
+  /* Style the navigation links */
+#myMenu li a {
+    padding: 12px;
+    text-decoration: none;
+    color: #04080F;
+    display: block
+}
+  
+#myMenu li a:hover {
+    color: #ECFFF8;
+    background-color: #6184D8;
+}
 
 
 #content{
@@ -422,7 +448,7 @@ h2{
 form {
     /* Center the form on the page */
     margin: 0 auto;
-    width: 400px;
+    width: 80%;
     /* Form outline */
     padding: 1em;
     border: 1px solid #ccc;
