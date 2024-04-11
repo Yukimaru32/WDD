@@ -46,7 +46,7 @@
 }
 #hero-img{
     width:100%;
-    height: 80%;
+    height: 100%;
 }
 
 nav a{
@@ -449,6 +449,9 @@ h2{
     margin-top: 3em;
 }
 @media screen and (max-width: 480px) {
+    .msg h2{
+        font-size: 20px;
+    }
     #hero, .home-grid {
         display: block;
         height: auto;
@@ -488,6 +491,7 @@ h2{
     }
     .resource-grid p{
         font-size: 15px;
+        margin-top: 0;
     }
     
     .list{
@@ -495,12 +499,14 @@ h2{
         color:#ECFFF8;
         background-color:#A39171;
         text-decoration: none;
-        padding:15px 150px;
+        padding:10px 10px;
         border-radius: 5px;
         border: #04080F;
         text-align: center;
     }
-    
+    .counseling-grid h2{
+        font-size: 15px;
+    }
 }
     
 form {
